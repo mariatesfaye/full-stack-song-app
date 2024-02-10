@@ -2,10 +2,10 @@
 
 This project is a full-stack web application for managing a list of songs. It includes a frontend built with ReactJS and Redux Toolkit for state management, and a backend server built with Node.js and Express. The backend provides RESTful API endpoints for CRUD operations on songs.
 ### Features
--View a list of songs
--Add a new song
--Update an existing song
--Delete a song
+- View a list of songs
+- Add a new song
+- Update an existing song
+- Delete a song
 ### Technologies Used
 -ReactJS
 -Redux Toolkit
