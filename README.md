@@ -30,10 +30,10 @@ cd ../backend && npm install
 ```
 3. Start the frontend and backend servers:
 ```bash
-# In one terminal window/tab
+# In one terminal
 cd frontend && npm start
 
-# In another terminal window/tab
+# In another terminal
 cd backend && npm start
 ```
 4. Access the application in your browser:
