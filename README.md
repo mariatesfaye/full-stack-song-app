@@ -7,14 +7,14 @@ This project is a full-stack web application for managing a list of songs. It in
 - Update an existing song
 - Delete a song
 ### Technologies Used
--ReactJS
--Redux Toolkit
--Redux-Saga
--Emotion and Styled System (for styling)
--Node.js
--Express
--JSON Web Tokens (JWT) for authentication
--Cors, Helmet, and Express Rate Limit for security measures
+- ReactJS
+- Redux Toolkit
+- Redux-Saga
+- Emotion and Styled System (for styling)
+- Node.js
+- Express
+- JSON Web Tokens (JWT) for authentication
+- Cors, Helmet, and Express Rate Limit for security measures
 ## Getting Started
 To get a local copy up and running, follow these steps:
 1. Clone the repository:
