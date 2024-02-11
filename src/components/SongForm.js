@@ -9,7 +9,7 @@ const SongForm = ({ onSubmit, initialData }) => {
   const handleChange = (e) => {
     const { name, value } = e.target;
     setFormData((prevData) => ({ ...prevData, [name]: value }));
-  };
+  };  
 
   const handleSubmit = (e) => {
     e.preventDefault();
