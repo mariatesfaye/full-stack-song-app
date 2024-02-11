@@ -1,6 +1,6 @@
 {
   "name": "react-rtk-demo",
-  "private": true,
+  "private": true, 
   "version": "0.0.0",
   "type": "module",
   "scripts": {
