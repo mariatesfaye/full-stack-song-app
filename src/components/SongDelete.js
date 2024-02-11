@@ -10,7 +10,7 @@ const SongDelete = ({ match, history }) => {
     dispatch(deleteSong(songId))
       .then(() => {
         alert('Song deleted successfully');
-        history.push('/'); // Redirect to song list after deletion
+        history.push('/');
       })
       .catch((error) => console.error('Error deleting song:', error));
   };
