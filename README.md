@@ -24,7 +24,7 @@ git clone https://github.com/mariatesfaye/full-stack-song-app.git
 ```
 2. Install dependencies for both frontend and backend:
 ```bash
-cd full-stack-song-manager
+cd full-stack-song-app
 cd frontend && npm install
 cd ../backend && npm install
 ```
