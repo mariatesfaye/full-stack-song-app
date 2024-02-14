@@ -3,7 +3,7 @@ import axios from 'axios';
 import { setSongs, addSong, updateSong, deleteSong } from '../slices/songsSlice';
 
 // Replaced 'API_URL' with my actual API endpoint
-const API_URL = 'http://localhost:3000';
+const API_URL = 'http://localhost:5000';
 ;
 
 function* fetchSongs() {
