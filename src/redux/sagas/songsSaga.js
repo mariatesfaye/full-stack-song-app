@@ -2,8 +2,9 @@ import { call, put, takeEvery } from 'redux-saga/effects';
 import axios from 'axios';
 import { setSongs, addSong, updateSong, deleteSong } from '../slices/songsSlice';
 
-// Replace 'YOUR_API_URL' with your actual API endpoint
-const API_URL = 'YOUR_API_URL';
+// Replaced 'API_URL' with my actual API endpoint
+const API_URL = 'http://localhost:3000';
+;
 
 function* fetchSongs() {
   try {
