@@ -38,7 +38,7 @@ cd backend && npm start
 ```
 4. Access the application in your browser:
 ```bash
-http://localhost:3000
+http://localhost:5000
 ```
 
 There are also two official plugins are available, installed along with vite:
